@@ -3,6 +3,11 @@ import the csv file of the Zomato Dataset to the colab
 Then, perform the anlysis on zomato Dataset 
 Link to download the data set-https://www.kaggle.com/datasets/rabhar/zomato-restaurants-in-india
 # About_The_Project 
-India is quite famous for its diverse multi cuisine available in a large number of restaurants and hotel resorts, which is reminiscent of unity in diversity. Restaurant business in India is always evolving. More Indians are warming up to the idea of eating restaurant food whether by dining outside or getting food delivered. The growing number of restaurants in every state of India has been a motivation to inspect the data to get some insights, interesting facts and figures about the Indian food industry in each city. So, this project focuses on analysing the Zomato restaurant data for each city in India.
+India is renowned for its diverse range of cuisine available across numerous restaurants and hotel resorts, showcasing a reflection of unity in its diversity. The restaurant industry in India is in a constant state of evolution. There's a growing trend among Indians to embrace restaurant dining, whether through in-person experiences or food deliveries. With an increasing number of restaurants across every state in India, there's a keen interest in exploring data to gather insights, fascinating facts, and figures pertaining to the food industry in each city. This project specifically aims to analyze Zomato's restaurant data for various cities in India.
 
-The Project focuses on Customers and Company, we have analyzed the data and made some useful conclusion in the form of Visualizations. The data is vizualized as it becomes easy to analyse data at instant. The Analysis also solve some of the business cases that can directly help the customers finding the Best restaurant in their locality and for the company to grow up and work on the fields they are currently lagging in.
+The project primarily concentrates on both customers and the company. Through careful data analysis, valuable conclusions have been drawn and presented through visualizations. Visual representations of data simplify the analysis process, enabling immediate comprehension. This analysis also addresses certain business scenarios, aiding customers in discovering the finest restaurants in their vicinity while providing insights for the company to improve and focus on areas where they currently face challenges.
+
+
+
+
+
